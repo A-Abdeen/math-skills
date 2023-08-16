@@ -40,7 +40,7 @@ Note: the program requires a text file formatted as above.
 To run this program, use the following:
 
 ```console
-python3 mathSkills.py file.txt
+python3 mathSkills.py data.txt
 ```
 
 ## Verification
